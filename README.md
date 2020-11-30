@@ -1,2 +1,3 @@
-# YACS
-Yet Another Centralized Scheduler
+# YACS - Yet Another Centralized Scheduler
+
+
